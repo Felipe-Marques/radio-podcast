@@ -1,0 +1,129 @@
+/* ********* Paleta de Cores ********* */
+:root {
+  --color1: rgba(230, 57, 70, 1); /* Imperial red*/
+  --color2: rgba(241, 250, 238, 0.664); /* Honeydew*/
+  --color3: rgba(168, 218, 220, 1); /* Powder blue*/
+  --color4: rgba(69, 123, 157, 1); /* Steel blue*/
+  --color5: rgba(29, 53, 87, 1); /* Prussian blue*/
+}
+
+/* ********* Layout Index ********* */
+body {
+  padding: 50px;
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-image: url(../img/background_podcast.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#container {
+  display: flex;
+  flex-flow: column wrap;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  background: var(--color2);
+  justify-content: center;
+  padding: 40px 20px;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+.app-title {
+  font-style: oblique;
+  color: var(--color4);
+  text-shadow: 5px 5px 10px black;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+#reader {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  padding: 10px;
+}
+
+.reader-input {
+  width: 8%;
+  margin-left: 10px;
+  padding: 5px;
+}
+
+#range {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  padding: 10px;
+}
+
+.freq {
+  color: var(--color5);
+  font-size: 0.8em;
+  font-weight: bold;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.input-freq {
+  width: 70%;
+  margin: 0 10px 0 10px;
+  -webkit-appearance: none; /* Override default CSS styles */
+  appearance: none;
+  border-radius: 10px;
+  background: rgba(165, 165, 165, 0.705);
+  outline: none; /* Remove outline */
+  opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
+  -webkit-transition: 0.2s; /* 0.2 seconds transition on hover */
+  transition: opacity 0.2s;
+}
+
+#divPodcasts {
+  width: 90%;
+  height: 250px;
+  border: 1px solid var(--color5);
+  /*background: white;*/
+  border-radius: 10px;
+  align-self: center;
+  margin-top: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+#divPodcasts h2 {
+  font-size: 2em;
+  color: var(--color5);
+  margin-bottom: 10px;
+}
+
+#divPodcasts img {
+  width: 180px;
+}
+
+#divPodcasts p {
+  color: var(--color5);
+  margin-top: 10px;
+}
+
+.assignature {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.assignature p {
+  font-size: larger;
+  font-weight: bolder;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+}

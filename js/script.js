@@ -53,6 +53,4 @@ function renderPodcastData(podcast) {
   <img src='../img/img/${img}' />
   <p>${description}</p>
   `;
-
-  divPodcasts.img.width = '50';
 }

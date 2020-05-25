@@ -26,4 +26,4 @@ Exercitar conceitos trabalhados no Módulo 1 do Bootcamp Dev Full Stack como:
 
 ## :octocat: Projeto:
 
-[Url do projeto](url)
+[Deploy](https://felipe-marques.github.io/radio-podcast/)

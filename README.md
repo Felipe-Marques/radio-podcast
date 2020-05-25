@@ -17,13 +17,13 @@ Exercitar conceitos trabalhados no Módulo 1 do Bootcamp Dev Full Stack como:
 - Estilizar o app com CSS.<br>
 - Mapear elementos do DOM para serem manipulados com JavaScript.<br>
 - Formatar valores com JavaScript.<br>
-- Realizar diversos cálculos com array methods como map, filter e reduce.<br>
--
+- Utilizar template literals.
+- Utilizar array method Find().<br>
 
-## Pesquisa de Usuários em API
+## Radio Podcast
 
-![Pesquisa de Usuários](img/radio-podcast.png)
+![Radio Podcast](img/radio-podcast.png)
 
 ## :octocat: Projeto:
 
-[Url do projeto](url)
+[Deploy](https://felipe-marques.github.io/radio-podcast/)

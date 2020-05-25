@@ -50,7 +50,7 @@ function renderPodcastData(podcast) {
 
   divPodcasts.innerHTML = `
   <h2> ${title}</h2>
-  <img src='/img/img/${img}' />
+  <img src='img/img/${img}' />
   <p>${description}</p>
   `;
 }

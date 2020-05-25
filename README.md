@@ -20,9 +20,9 @@ Exercitar conceitos trabalhados no Módulo 1 do Bootcamp Dev Full Stack como:
 - Realizar diversos cálculos com array methods como map, filter e reduce.<br>
 -
 
-## Pesquisa de Usuários em API
+## Radio Podcast
 
-![Pesquisa de Usuários](img/radio-podcast.png)
+![Radio Podcast](img/radio-podcast.png)
 
 ## :octocat: Projeto:
 

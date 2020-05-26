@@ -17,8 +17,8 @@ Exercitar conceitos trabalhados no Módulo 1 do Bootcamp Dev Full Stack como:
 - Estilizar o app com CSS.<br>
 - Mapear elementos do DOM para serem manipulados com JavaScript.<br>
 - Formatar valores com JavaScript.<br>
-- Realizar diversos cálculos com array methods como map, filter e reduce.<br>
--
+- Utilizar template literals.
+- Utilizar array method Find().<br>
 
 ## Radio Podcast
 
